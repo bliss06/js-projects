@@ -1,0 +1,43 @@
+Request URL: https://www.nseindia.com/api/option-chain-indices?symbol=BANKNIFTY
+Request Method: GET
+Status Code: 200 
+Remote Address: 184.84.100.26:443
+Referrer Policy: strict-origin-when-cross-origin
+
+RESPONSE HEADERS
+access-control-allow-headers: Content-Type
+access-control-allow-methods: GET,POST
+access-control-allow-origin: "nseindia.com"
+content-encoding: gzip
+content-length: 81770
+content-type: application/json; charset=utf-8
+date: Wed, 02 Jun 2021 06:31:39 GMT
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=1
+set-cookie: bm_sv=19D824957934E1E1FF503EF888C4848C~rdiEXo34lxbk46cABSTC7PrU1Eitg5xUIznRV/C4dVKPSnj2DdRV4jlw2y1t5hNKvlqX7CiPbQi8UHGJlx9ulcV5KsD4HqQ65Q7Qzm6Tyhxg3tFaw8cNfIBJI22YLuynh3nfdSfmWueJme14SBD+Xe0e4ggJln8VOx1biSOP7Qo=; Domain=.nseindia.com; Path=/; Max-Age=7083; HttpOnly
+strict-transport-security: max-age=15552000; includeSubDomains
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-dns-prefetch-control: off
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+
+REQUEST HEADERS
+:authority: www.nseindia.com
+:method: GET
+:path: /api/option-chain-indices?symbol=BANKNIFTY
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: NSE-TEST-1=1910513674.20480.0000; JSESSIONID=B39A56BAF2CEEAF9119956F76D6A279F.jvm1; _ga=GA1.2.1071308115.1561998531; nsit=9n1rQf3YBfvIbxOBWq5UZEWY; nseappid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcGkubnNlIiwiYXVkIjoiYXBpLm5zZSIsImlhdCI6MTYyMjYxNTM3NSwiZXhwIjoxNjIyNjE4OTc1fQ.j4w7X8M7beZbiXap7cRbdIM5EI83-UwGVDTtODxC8Zs; AKA_A2=A; _gid=GA1.2.367244483.1622615382; ak_bmsc=E5CFF6382BC9868591351435657BA17F170346370A7800004F25B7601354C924~plFLm/qvt/+FpaNzSBW/TOcPmWjvkXrHcIBonVr2yNG3Iq4+RBddVeik6V183pw3BnYGsC1kPDnvFgVEo3BOCrDnxaGU7R/CXJQYQPHOiSiEbDjk6vVCdtHeG05sNoZy7ix9+k4TOduJBZ2zd7km2eQkfqDvAK7UYjiPFzJhG1iDDOtDCg1qkUToKhzNbO+jem4cM7ThjddszhZdJEla45CV0Y7CXmEqBRL/sBNhnHdW9KkBIfB63OlimjgA/niv15; RT="z=1&dm=nseindia.com&si=5b01b7cd-77cb-4bec-84e9-0517337ce685&ss=kpf3asbr&sl=1&tt=5cj&bcn=%2F%2F684fc538.akstat.io%2F&ld=607"; bm_sv=19D824957934E1E1FF503EF888C4848C~rdiEXo34lxbk46cABSTC7PrU1Eitg5xUIznRV/C4dVKPSnj2DdRV4jlw2y1t5hNKvlqX7CiPbQi8UHGJlx9ulcV5KsD4HqQ65Q7Qzm6TyhzgC9e5OLlFRcV/6WL89NhZXkIOj8QaY2YF7u23tRUPTf9laUG8CCpui0acG0at6yY=
+referer: https://www.nseindia.com/option-chain
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+x-kl-ajax-request: Ajax_Request
+symbol: BANKNIFTY
